@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/ViewTube/static/css/main.e1e32a4b.chunk.css",
+    "main.js": "/ViewTube/static/js/main.c19789f2.chunk.js",
+    "main.js.map": "/ViewTube/static/js/main.c19789f2.chunk.js.map",
+    "runtime-main.js": "/ViewTube/static/js/runtime-main.3350bfe6.js",
+    "runtime-main.js.map": "/ViewTube/static/js/runtime-main.3350bfe6.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/ViewTube/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.cf2221af.chunk.js": "/ViewTube/static/js/2.cf2221af.chunk.js",
+    "static/js/2.cf2221af.chunk.js.map": "/ViewTube/static/js/2.cf2221af.chunk.js.map",
+    "index.html": "/ViewTube/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/ViewTube/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.e1e32a4b.chunk.css.map": "/ViewTube/static/css/main.e1e32a4b.chunk.css.map",
+    "static/js/2.cf2221af.chunk.js.LICENSE.txt": "/ViewTube/static/js/2.cf2221af.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3350bfe6.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.cf2221af.chunk.js",
+    "static/css/main.e1e32a4b.chunk.css",
+    "static/js/main.c19789f2.chunk.js"
+  ]
+}
